@@ -1,0 +1,8 @@
+node_modules
+dist
+
+
+.env
+.env.dev
+.env.pro
+package-lock.json
